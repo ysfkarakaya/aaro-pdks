@@ -1,15 +1,6 @@
 {
     "devices": [
-        {
-            "name": "1",
-            "ip": "192.168.100.15",
-            "port": 4370,
-            "protocol": "TCP",
-            "timeout": 30,
-            "password": 0,
-            "force_udp": false,
-            "id": 1
-        }
+        
     ],
     "settings": {
         "auto_connect": true,
@@ -29,16 +20,16 @@
             "token_url": "https://erp.aaro.com.tr/Token",
             "data_url": "https://erp.aaro.com.tr/api/PerMesaiHareketDetayCihaz/bulk-create",
             "personnel_url": "https://erp.aaro.com.tr/api/Personel",
-            "username": "x@aaro.com.tr",
-            "password": "xxx",
+            "username": "",
+            "password": "",
             "auto_send": false,
             "send_interval": 100,
             "personnel_page_size": 100,
             "clear_device_on_success": true,
             "token_data": {
-                "access_token": "_FoTlMImlODkgIaw1RnhxUjqvfp2hWmQi4OpNfxY8ljCUMZ9Z6Y4kSRs3-6ZXtt4Vuf4mvl_vIjoOm7jQuRHpmKU0wg9PR7C-8stk1U5MfaLrqmPWnqkEsS7HpIB10lbBPmLoK8gyVtOwo8xIiRJDXIk3d-WA2Hxu6hMku_KVJD-s4MxSU7JysMFlUTuo5gha78a4bjMXhncuPpP_OsuqpBheP2QvUiuyo__RTj2m5fMxZO0v62WHmTaOK5C2SDD-MIHrenisWdKrcLD9A_OMs4luzXUMHhYFClDEKyk9az5u_9HCLNqXx0WNMr9cCtWpKGgLfyw7ksDOuL_lRH5YLNaIm41K4s-x3ycp2p0g4ZvIRJ_9fNm-A-WXbNG-qW4JpzPTLowsxufsehEd_Ft3MYdT3VyNEuaJ4wd2EM3ql_24KSI3CIyCC341hAjsLF-ZezqMl3r6AjeG6ihxh5RbomtYCyjYknA0U7x_TsVpUl6vlOOKn0QpsWiD8uw1f83",
-                "refresh_token": "71_V_s-gi7Wp_35nsen2-n-ILGGKSHjxw8-mRn1GTlhXY44c-0mf2TIkgrpbEmJ98dZuYCBvoeAMNNJtwK3PC5GrZ_2p6HKVpTesgPdRFKnR_vQvuj1wUi1IdQ9Pzwx8f-HaetDIdDle3RNTU5rSCkvlUiaQ7bsNl0S4x_qh20OldtaOBLheAXQJU2nkXdpct7GNtH8byfwpHt8O0b2O4Rx5hiLuS3ze7Ug_76wJnnxnntJq9rQRLVS5IVToZ-CoIhxEtl9OcN3Cq2LNoYcI9UHHtM6X6Ibymx8BasC87Kocx3YbrM_b2WLwj5EGlvpMVtM7k34BQFr_owCDFYB91HcHHYaXNqNf0Vxcqg7QFSYddJlvaVrxpF2UENNFBKSPip38S-oDDhI75YLsaV_sfgNUT75MumLKgI3LqhhzhcqvvSBpxeBQjEERFoz2sea1qh1c8Ks2jsE2UsvecM0UJAvxFSEuPFV1O1LXbr8XIki2a5UQhi9SvJCJlVjgriy6",
-                "expires_at": "2025-07-11 23:14:36",
+                "access_token": "pat_pFEKHVDk90K2GSJtDDpX_yRaTQKWAPm9fbgEzgwLW8g",
+                "refresh_token": "pat_pFEKHVDk90K2GSJtDDpX_yRaTQKWAPm9fbgEzgwLW8g",
+                "expires_at": "2030-08-29 23:59:03",
                 "token_type": "bearer"
             }
         }
