@@ -27,8 +27,8 @@
             "personnel_page_size": 100,
             "clear_device_on_success": true,
             "token_data": {
-                "access_token": "pat_pFEKHVDk90K2GSJtDDpX_yRaTQKWAPm9fbgEzgwLW8g",
-                "refresh_token": "pat_pFEKHVDk90K2GSJtDDpX_yRaTQKWAPm9fbgEzgwLW8g",
+                "access_token": "pat_",
+                "refresh_token": "pat_",
                 "expires_at": "2030-08-29 23:59:03",
                 "token_type": "bearer"
             }
